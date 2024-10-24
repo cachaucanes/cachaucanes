@@ -1,5 +1,5 @@
 # Hey there! Welcome to my GitHub!
-## I'm Carlos, a web developer focused on creating efficient and scalable web applications. Here, you’ll find projects showcasing my work in front-end and back-end development. I’m always looking for new challenges and opportunities to grow, so feel free to connect!
+I'm Carlos, a web developer focused on creating efficient and scalable web applications. Here, you’ll find projects showcasing my work in front-end and back-end development. I’m always looking for new challenges and opportunities to grow, so feel free to connect!
 <img src="https://github.com/user-attachments/assets/0b050ad8-d2ab-4006-b4de-1e9d8aab9b73" alt="hello" width="400" height="300"  align="right">
 
 
